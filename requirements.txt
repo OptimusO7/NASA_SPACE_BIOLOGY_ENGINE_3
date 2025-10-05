@@ -1,7 +1,10 @@
 fastapi
 uvicorn
 chromadb
-google-genai
 sentence-transformers
+google-genai
+google-generativeai
+pandas
+matplotlib
 pydantic
 tqdm
